@@ -14,23 +14,30 @@ In the present study, we tested the efficacy of these head molds in a sample exc
 **Functional MRI Analyses**
 
 - Does head motion differ between with and without the head mold?
+<img src="figs/fd_traces.png" alt="fc_traces" width="500"/>
 
 - Does scan quality differ between with and without the head mold?
+<img src="figs/Fig4.png" alt="Fig4" width="500"/>
 
 - Does the head mold reduce distance-dependent artifacts in functional connectivity analyses?
+<img src="figs/fc_distance_group.png" alt="fc_distance_group" width="500"/>
 
 **Structural MRI Analyses**
 
 - Does head motion differ between with and without the head mold?
 
 - Does scan quality differ between with and without the head mold?
+<img src="figs/Fig7_struct_qa.png" alt="Fig7" width="500"/>
 
 - Do volumetric estimates differ between head mold conditions?
+<img src="figs/siena_pbvc.png" alt="pbvc" width="500"/>
 
 **Behavioral Analyses**
 
 - Do participants' tolerability ratings differ between with and without the head mold?
+<img src="figs/tolerance_barh.png" alt="tolerance_barh" width="500"/>
 
 - Do the head molds affect the likelihood of returning for another MRI scan?
 
 - Did participants prefer the MRI scan with or without the head mold?
+<img src="figs/tolerance_pie.png" alt="tolerance_pie" width="500"/>
