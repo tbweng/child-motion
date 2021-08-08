@@ -1,6 +1,6 @@
 # The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children
 
-This is a notebook containing the analyses for the paper entitled "The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children".
+This is a repository containing the analyses for the paper entitled "The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children". Analysis notebooks are: **`func_analysis.ipynb`**, **`struct_analyses.ipynb`**, and **`tolerability_analyses.ipynb`**.
 
 Weng, T. B., Vela, R. D., Weber, W., Dodla, M., Heinsfeld, A. S., Parker, S. D., Simon, B., Demeter, D. V., Nugiel, T., Whitmore, L., Mills, K. L., Church, J. A., Haberman, M. R., & Craddock, R. C. (2021). The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children. MedRxiv, 2021.03.24.21253213. https://doi.org/10.1101/2021.03.24.21253213
 
