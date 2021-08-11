@@ -4,7 +4,7 @@ This is a repository containing the analyses for the paper entitled "The impact 
 
 Weng, T. B., Vela, R. D., Weber, W., Dodla, M., Heinsfeld, A. S., Parker, S. D., Simon, B., Demeter, D. V., Nugiel, T., Whitmore, L., Mills, K. L., Church, J. A., Haberman, M. R., & Craddock, R. C. (2021). The impact of customized head molds on motion and motion-related artifacts from structural and functional MRI scans in children. MedRxiv, 2021.03.24.21253213. https://doi.org/10.1101/2021.03.24.21253213
 
-**Tools**: *SciPy, Pandas, Seaborn, Matplotlib, [NiBabel](https://nipy.org/nibabel/), [Nilearn](https://nilearn.github.io/)*
+**Tools**: *Pandas, NumPy, scikit-learn, SciPy, Seaborn, Matplotlib, [NiBabel](https://nipy.org/nibabel/), [Nilearn](https://nilearn.github.io/)*
 
 ## Abstract
 Although neuroimaging provides powerful tools for assessing brain structure and function, their utility for elucidating mechanisms underlying neuropsychiatric disorders is limited by their sensitivity to head motion. Several publications have shown that standard retrospective motion correction and arduous quality assessment are insufficient to fully remove the deleterious impacts of motion on functional (fMRI) and structural (sMRI) neuroimaging data. These residual errors tend to be correlated with age and clinical diagnosis, resulting in artifactual findings in studies of clinical, developmental, and aging populations. As such there is a continued need to explore and evaluate novel methods for reducing head motion, and their applicability in these populations. Recently, a custom-fitted styrofoam head mold was reported to reduce motion across a range of ages, mostly adolescents, during a resting state fMRI scan.
